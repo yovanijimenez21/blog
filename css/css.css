@@ -1,17 +1,12 @@
 body{
-    color: red;
+    color: blue;
     text-align: center;
-<<<<<<< HEAD
     font-family: fantasy;
-=======
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 #cabecera{
     text-align: right;
     color:chartreuse;
     size: 20px;
-    background:darkgoldenrod;
-    
->>>>>>> cabecera
+    background:cadetblue;
 }
